@@ -37,5 +37,3 @@ It was developed as part of my **Codmetric AI Internship Project**, focusing on 
 - **Tkinter** – graphical user interface library (built-in with Python)  
 
 ---
-
-## ▶️ How to Run
